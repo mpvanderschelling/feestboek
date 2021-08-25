@@ -5,15 +5,15 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Martin zoekt kamer in Rotterdam!"
+title: "Martin van der Schelling"
 subtitle: "See the world through my eyes!"
 author: "Martin van der Schelling"
 header:
  title: "Martin"
- subtitle: "zoekt kamer in Rotterdam!"
+ subtitle: "van der Schelling"
 footer:
  name: "Hoi hoi!"
- bio: "Dit is een kleine biografie en een fotocollage om mij te helpen een kamer te zoeken in Rotterdam!<br><br>Hopelijk werkt html ook hier."
+ bio: "Ik ben Martin, 26 jaar, kom oorspronkelijk uit Breda en heb Materiaalkunde gestudeerd in Delft. Een aantal maanden geleden ben ik begonnen met werken als technische software engineer. Ik ben veel bezig met muziek en speel al een aantal jaren piano in coverband <a href="www.deklittenband.nl">De Klittenband</a>. Naast muziek doe ik ook regelmatig aan sport en ik speel sinds dit jaar bij HC Delfshaven. Verder ga ik jaarlijks snowboarden in de Franse alpen. Ook ga ik vaak naar de Kuip voor een pot voetbal van de mooiste club van Nederland."
  github: ""
 web_design: "AJ"
 social_urls:
